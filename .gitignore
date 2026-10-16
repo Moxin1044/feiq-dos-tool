@@ -1,0 +1,18 @@
+# 编译中间产物
+build/
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.res
+*.idb
+
+# VS / IDE
+.vs/
+*.user
+*.suo
+
+# 运行期产物
+gui_running.png
